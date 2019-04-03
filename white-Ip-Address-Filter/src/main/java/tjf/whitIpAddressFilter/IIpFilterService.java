@@ -4,7 +4,7 @@ package tjf.whitIpAddressFilter;
  *
  * @ClassName: IIpFilterService
  * @Description:
- * @Auther: JingFeng.Tan
+ * @Author: JingFeng.Tan
  * @Date: 2019/4/2 22:05
  */
 public interface IIpFilterService {

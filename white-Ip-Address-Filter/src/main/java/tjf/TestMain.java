@@ -7,7 +7,7 @@ import tjf.whitIpAddressFilter.impl.IpFilterServiceImpl;
  *
  * @ClassName: TestMain
  * @Description:
- * @Auther: yinhutjfox
+ * @Author: yinhutjfox
  * @Date: 2019/4/3 10:56
  */
 public class TestMain {

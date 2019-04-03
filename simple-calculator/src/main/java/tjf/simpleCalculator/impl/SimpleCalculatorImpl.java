@@ -6,9 +6,10 @@ import java.util.Stack;
 import java.util.regex.Pattern;
 
 /**
+ * TODO: 目前还不支持显式录入负数
  * @ClassName: SimpleCalculatorImpl
  * @Description:
- * @Auther: yinhutjfox
+ * @Author: yinhutjfox
  * @Date: 2019/4/3 16:44
  */
 public class SimpleCalculatorImpl implements ISimpleCalculator {

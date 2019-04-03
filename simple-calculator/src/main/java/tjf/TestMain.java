@@ -6,7 +6,7 @@ import tjf.simpleCalculator.impl.SimpleCalculatorImpl;
 /**
  * @ClassName: TestMain
  * @Description:
- * @Auther: yinhutjfox
+ * @Author: yinhutjfox
  * @Date: 2019/4/3 16:44
  */
 public class TestMain {
