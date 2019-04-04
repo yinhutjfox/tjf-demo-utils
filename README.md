@@ -3,3 +3,5 @@
     > 实现一个简单的表达式计算器，支持+、-、*、\、^及括号
 2. [white-Ip-Address-Filter](https://github.com/yinhutjfox/tjf-demo-utils/tree/master/white-Ip-Address-Filter):
     > 实现一个简单的ip白名单过滤器，可添加和过滤，并满足并发添加
+2. [tree](https://github.com/yinhutjfox/tjf-demo-utils/tree/master/tree):
+    > 放置各类树的实现
